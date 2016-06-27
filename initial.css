@@ -1,0 +1,51 @@
+.jumbotron
+{
+	background-color:#00b8e6;
+	color: white;
+	padding: 80px 25px;
+
+}
+.container-fluid{
+	padding: 50px 30px;
+	
+}
+.bg-light{
+	background-color:#ccf2ff;
+
+}
+.carousel-indicators li{
+	background-image: none;
+	border-color: #00b8e6
+}
+.carousel-indicators li.active{
+	background-color: #00b8e6;
+}
+.carousel-control.right, .carousel-control.left{
+	color:#00b8e6;
+	background-image: none;
+}
+.item h4{
+	margin: 60px;
+}
+ .navbar {
+      margin-bottom: 0;
+      background-color:#00b8e6;
+      z-index: 9999;
+      border: 0;
+      font-size: 12px !important;
+      line-height: 1.42857143 !important;
+      letter-spacing: 4px;
+      border-radius: 0;
+      font-family: Montserrat, sans-serif;
+  }
+  .navbar li a, .navbar .navbar-brand {
+      color: !important;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+      color: #00b8e6 !important;
+      background-color: white!important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #fff !important;
+  }
